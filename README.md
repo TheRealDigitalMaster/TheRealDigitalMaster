@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile!
+## Greetings fellow human
 
 ![GitHub followers](https://img.shields.io/github/followers/TheRealDigitalMaster?style=social)
 
